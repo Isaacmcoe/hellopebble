@@ -11,6 +11,9 @@
     },
     "sdkVersion": "3",
     "shortName": "hello",
+    "targetPlatforms": [
+        "aplite"
+    ],
     "uuid": "54e21335-f74c-44aa-85da-4f11ef14938a",
     "versionLabel": "1.0",
     "watchapp": {
