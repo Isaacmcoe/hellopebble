@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "isaacmcoe73@gmail.com",
+    "longName": "hello",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "hello",
+    "uuid": "54e21335-f74c-44aa-85da-4f11ef14938a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
