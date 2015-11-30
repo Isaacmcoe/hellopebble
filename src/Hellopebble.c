@@ -6,7 +6,7 @@ void init() {
   // creating the text layer in the init
    window = window_create();
    text_layer = text_layer_create(GRect(0, 0, 144, 40));
-   text_layer_set_text(text_layer, "hello Isaac");
+   text_layer_set_text(text_layer, "Pebble");
    layer_add_child(window_get_root_layer(window),
                    text_layer_get_layer(text_layer));
    window_stack_push(window, true);
